@@ -1,3 +1,4 @@
+# Stock Price Prediction: Model Visualizations and Explanations
 1. Introduction This project focuses on predicting stock prices using ARFIMA and Gradient Boosting models.
     The dataset used contains stock prices along with various features like 'Close', 'Volume', 'Moving Averages', etc.
 2. The goal is to preprocess the data, apply two different models, and evaluate their performance.

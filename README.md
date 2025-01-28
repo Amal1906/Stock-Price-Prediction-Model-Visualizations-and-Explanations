@@ -24,10 +24,10 @@ volume, and moving averages.
     2. Findings from the ARFIMA and Gradient Boosting models.
     3. Visualizations like performance plots, error metrics graphs.
     4. Recommendations for trading strategies based on the findings.
-11. Installation Instructions To run the project, follow these steps: 1. Clone the repository to your local machine. 2.
-Install the required dependencies: - numpy - pandas - matplotlib - statsmodels - sklearn - pmdarima 3. Run the
-`stock_price_prediction.py` script after setting the correct path to your dataset.
-12. How to Use 1. Place your dataset (e.g., 'AAPL_with_features.csv') in the same directory or specify the path in
-the script. 2. Run the Python script `stock_price_prediction.py`. 3. The script will load the data, perform
-preprocessing, apply both ARFIMA and Gradient Boosting models, and output performance metrics and
-predictions.
+11. Installation Instructions To run the project, follow these steps: 
+    1. Install the required dependencies: - numpy - pandas - matplotlib - statsmodels - sklearn - pmdarima
+    2. Run the `stock forecasting.py` script after setting the correct path to your dataset.
+12. How to Use
+    1. Place your dataset (e.g., 'stock data.csv') in the same directory or specify the path in the script.
+    2. Run the Python script `stock forecasting.py`.
+    3. The script will load the data, perform preprocessing, apply both ARFIMA and Gradient Boosting models, and output performance metrics and predictions.
